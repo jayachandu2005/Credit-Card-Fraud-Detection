@@ -1,0 +1,2 @@
+[2026-09-04 10:59:23,151] line 10 root - INFO - Starting Credit Card Fraud dataset ingestion
+[2026-09-04 10:59:23,166] line 21 root - ERROR - Error occurred during data ingestion: [Errno 2] No such file or directory: 'data/raw/wrong_file.csv'

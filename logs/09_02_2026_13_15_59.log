@@ -1,0 +1,3 @@
+[2026-09-02 13:15:59,729] line 10 root - INFO - Starting Credit Card Fraud dataset ingestion
+[2026-09-02 13:16:00,788] line 12 root - INFO - Dataset loaded successfully with 284807 rows and 31 columns
+[2026-09-02 13:16:00,788] line 16 root - INFO - Fraud class distribution: {0: 284315, 1: 492}
